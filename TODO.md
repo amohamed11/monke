@@ -4,18 +4,15 @@ To keep track of progress.
 
 ## Interpreter
 ### Todo
-- [ ] Lexer
-- [ ] Parser
 - [ ] Abstract Syntax Tree (AST)
 - [ ] Internal object system
 - [ ] Evaluator
 
 ### In Progress
-
-- [ ]   
+- [ ] Parser
 
 ### Done ✓
-- [x]   
+- [x] Lexer
 
 ---  
 
